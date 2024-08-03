@@ -79,7 +79,7 @@ fun BusinessCard(imagePainter: Painter, fullName: String, title: String, departm
             )
             Text(
                 text = title,
-                fontSize = 15.sp,
+                fontSize = 16.sp,
                 modifier = Modifier
                     .align(alignment = Alignment.CenterHorizontally)
             )
